@@ -1,16 +1,21 @@
-# e_com_exam
+# `Project - 01 List of Fruits`
+### `Description`
+    App features:
+List of all Products (List of Maps)
+A product must have following properties:
+product_name
+product_category
+product_desciption
+product_price
+product_image
+HomePage with all Products as scrollable view (2 products in a row) from List of Maps
+Show category-wise products in HomePage
+Implement category-wise filter for products in HomePage
+Show selected product in DetailPage
+Insert a product for showing it in Cart
+ Display products in CartPage
+ Display total price of all products in CartPage
+Delete products from CartPage
 
-A new Flutter project.
+## `Output:`
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
