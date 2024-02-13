@@ -1,4 +1,4 @@
-# `Project - 01 List of Fruits`
+# `E-Commerce application`
 ### `Description`
     App features:
 => List of all Products (List of Maps)
